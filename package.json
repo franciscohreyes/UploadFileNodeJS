@@ -1,0 +1,25 @@
+{
+  "name": "UploadFileNodeJS",
+  "version": "1.0.0",
+  "description": "Upload file to server using nodeJS",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "multer": "^1.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franciscohreyes/UploadFileNodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franciscohreyes/UploadFileNodeJS/issues"
+  },
+  "homepage": "https://github.com/franciscohreyes/UploadFileNodeJS#readme"
+}
